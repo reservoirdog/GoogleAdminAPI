@@ -1,0 +1,3 @@
+dn	full_name	username	displayname	first_name	last_name	email	upn	purpose	google_code	department
+OU=Users,OU=Mountain View,OU=North America,DC=example,DC=lan	John Doe	john.doe	John Doe	John	Doe	john.doe@example.com	john.doe@example.lan	activate	ENG	Engineering
+OU=Users,OU=Mountain View,OU=North America,DC=example,DC=lan	Jane Doe	jane.doe	Jane Doe	Jane	Doe	jane.doe@example.com	jane.doe@example.lan	activate	SALES	SALES
