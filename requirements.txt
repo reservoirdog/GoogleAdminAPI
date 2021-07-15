@@ -3,6 +3,6 @@ httplib2==0.10.3
 oauth2client==4.0.0
 pyasn1==0.2.3
 pyasn1-modules==0.0.8
-rsa==3.4.2
+rsa>=4.7
 six==1.10.0
 uritemplate==3.0.0
